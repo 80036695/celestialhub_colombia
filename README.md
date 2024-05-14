@@ -4,7 +4,7 @@
 </div>
 
 ## Intro
-Proyecto Awesome es una aplicación web diseñada para ayudarte a organizar tus tareas diarias de manera eficiente. Con una interfaz intuitiva y características poderosas, ¡nunca antes había sido tan fácil mantenerse al día con tus responsabilidades!
+CelestialHub Colombia es una aplicación web diseñada para ayudarte a organizar tus tareas diarias de manera eficiente. Con una interfaz intuitiva y características poderosas, ¡nunca antes había sido tan fácil mantenerse al día con tus responsabilidades!
 
 ## Estructura de la página
 El proyecto consta de las siguientes secciones principales:
